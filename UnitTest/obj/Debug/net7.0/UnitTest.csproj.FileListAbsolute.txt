@@ -97,3 +97,9 @@ D:\TAI\L337C0d3\L337C0d3\UnitTest\obj\Debug\net7.0\refint\UnitTest.dll
 D:\TAI\L337C0d3\L337C0d3\UnitTest\obj\Debug\net7.0\UnitTest.pdb
 D:\TAI\L337C0d3\L337C0d3\UnitTest\obj\Debug\net7.0\UnitTest.genruntimeconfig.cache
 D:\TAI\L337C0d3\L337C0d3\UnitTest\obj\Debug\net7.0\ref\UnitTest.dll
+D:\TAI\L337C0d3\L337C0d3\UnitTest\bin\Debug\net7.0\CoverletSourceRootsMapping
+D:\TAI\L337C0d3\L337C0d3\UnitTest\bin\Debug\net7.0\L337C0d3.deps.json
+D:\TAI\L337C0d3\L337C0d3\UnitTest\bin\Debug\net7.0\L337C0d3.runtimeconfig.json
+D:\TAI\L337C0d3\L337C0d3\UnitTest\bin\Debug\net7.0\L337C0d3.exe
+D:\TAI\L337C0d3\L337C0d3\UnitTest\bin\Debug\net7.0\L337C0d3.dll
+D:\TAI\L337C0d3\L337C0d3\UnitTest\bin\Debug\net7.0\L337C0d3.pdb

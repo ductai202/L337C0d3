@@ -1,0 +1,15 @@
+D:\TAI\L337C0d3\L337C0d3\L337C0d3\bin\Debug\net7.0\L337C0d3.exe
+D:\TAI\L337C0d3\L337C0d3\L337C0d3\bin\Debug\net7.0\L337C0d3.deps.json
+D:\TAI\L337C0d3\L337C0d3\L337C0d3\bin\Debug\net7.0\L337C0d3.runtimeconfig.json
+D:\TAI\L337C0d3\L337C0d3\L337C0d3\bin\Debug\net7.0\L337C0d3.dll
+D:\TAI\L337C0d3\L337C0d3\L337C0d3\bin\Debug\net7.0\L337C0d3.pdb
+D:\TAI\L337C0d3\L337C0d3\L337C0d3\obj\Debug\net7.0\L337C0d3.csproj.AssemblyReference.cache
+D:\TAI\L337C0d3\L337C0d3\L337C0d3\obj\Debug\net7.0\L337C0d3.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAI\L337C0d3\L337C0d3\L337C0d3\obj\Debug\net7.0\L337C0d3.AssemblyInfoInputs.cache
+D:\TAI\L337C0d3\L337C0d3\L337C0d3\obj\Debug\net7.0\L337C0d3.AssemblyInfo.cs
+D:\TAI\L337C0d3\L337C0d3\L337C0d3\obj\Debug\net7.0\L337C0d3.csproj.CoreCompileInputs.cache
+D:\TAI\L337C0d3\L337C0d3\L337C0d3\obj\Debug\net7.0\L337C0d3.dll
+D:\TAI\L337C0d3\L337C0d3\L337C0d3\obj\Debug\net7.0\refint\L337C0d3.dll
+D:\TAI\L337C0d3\L337C0d3\L337C0d3\obj\Debug\net7.0\L337C0d3.pdb
+D:\TAI\L337C0d3\L337C0d3\L337C0d3\obj\Debug\net7.0\L337C0d3.genruntimeconfig.cache
+D:\TAI\L337C0d3\L337C0d3\L337C0d3\obj\Debug\net7.0\ref\L337C0d3.dll

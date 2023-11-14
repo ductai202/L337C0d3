@@ -1708,6 +1708,16 @@
         "build": {
           "build/netcoreapp3.1/xunit.runner.visualstudio.props": {}
         }
+      },
+      "L337C0d3/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/L337C0d3.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/L337C0d3.dll": {}
+        }
       }
     }
   },
@@ -5500,10 +5510,16 @@
         "xunit.runner.visualstudio.2.4.5.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "L337C0d3/1.0.0": {
+      "type": "project",
+      "path": "../L337C0d3/L337C0d3.csproj",
+      "msbuildProject": "../L337C0d3/L337C0d3.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "L337C0d3 >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.7.1",
       "coverlet.collector >= 3.2.0",
       "xunit >= 2.4.2",
@@ -5538,7 +5554,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\TAI\\L337C0d3\\L337C0d3\\L337C0d3\\L337C0d3.csproj": {
+              "projectPath": "D:\\TAI\\L337C0d3\\L337C0d3\\L337C0d3\\L337C0d3.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
